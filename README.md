@@ -1,13 +1,17 @@
-![py-cord](2.3.2)
-
 # Discord.py/Py-Cord bot template
-This is a no-frills template for a Discord.py bot.
+This is a no-frills template for a Discord.py/Py-cord bot.
 
-- Dockerized for easy deployment.
-- Cogs, for clean, seperated code. 
+- Individual Cogs, for clean, seperated code.
 - Pass your token  as an argument, so it's never in the code. 
+- Dockerized for easy deployment.
 
 
+# Installation
+
+- Bot is tested using Python 3.9.13
+- py-cord v.2.3.2
+```pip install py-cord```
+https://pypi.org/project/py-cord/
 
 # Running the bot
 
